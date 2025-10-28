@@ -13,4 +13,6 @@ cd quasar-front
 
 npm install -g @quasar/cli
 
+npm init quasar
+
 quasar dev
