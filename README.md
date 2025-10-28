@@ -1,4 +1,5 @@
 Для запуска необходимо разархировать два файла, и один из них src заменить или вложить в папку quasar-front
+
 python -m venv .venv
 
 .venv\Scripts\activate
